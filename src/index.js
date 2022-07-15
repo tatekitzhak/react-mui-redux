@@ -5,4 +5,4 @@ import DrawerApp from './components/drawer.js'
 
 const container = document.getElementById('root');
 const root = createRoot(container);
-root.render(<DrawerApp />);
+root.render(<App />);
